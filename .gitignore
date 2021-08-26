@@ -1,0 +1,11 @@
+.git
+node_modules
+build
+coverage
+/lang
+.nyc_output
+*.log
+.env*
+test.js
+*.vim
+/src
